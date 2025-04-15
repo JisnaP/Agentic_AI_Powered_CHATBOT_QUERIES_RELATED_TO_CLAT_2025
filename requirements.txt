@@ -1,0 +1,9 @@
+tavily-python
+sentence-transformers
+llama-index
+python-dotenv
+llama-index-llms-openai
+llama-index-core
+llama_index_readers_web
+llama-index-vector-stores-chroma
+llama-index-embeddings-huggingface
